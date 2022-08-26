@@ -1,0 +1,21 @@
+.list{
+    color:white;
+    width: 300px;
+    background-color: #ff8381;
+    height: 50px;
+    margin: 20px auto;
+    border-radius: 5px;
+}
+.list p{
+    padding: 5px;
+    position: relative;
+}
+.list p span{
+    position: absolute;
+    right: 10px;
+    cursor: pointer;
+}
+.trash2{
+    margin: 0 5px;
+    font-size: 10px;
+}
